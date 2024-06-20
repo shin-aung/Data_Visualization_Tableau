@@ -114,7 +114,7 @@ Using a combination of Tableau for visualization and Python for data preprocessi
 [Capstone Assignment - IMDB Data+Movies Capstone Presentation](Capstone_Shin_Thant_Aung.docx)
 
 
-[Capstone Assignment - IMDB Data+Movies Capstone Presentation Transcript](Capstone_Shin_Thant_Aung_Transcript.docx)
+[Capstone Assignment - IMDB Data+Movies Capstone Presentation Transcript](Capstone_Shin_Thant_Aung_Transcript.pdf)
 
 ---
 
