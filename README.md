@@ -27,7 +27,7 @@ I utilized Python libraries such as Matplotlib and Seaborn to create visual repr
   - Seaborn
 
 ### Link to Project
-[Assignment 1 - Data Story-Telling Framework I](Assignment_1_Shin_Thant_Aung)
+[Assignment 1 - Data Story-Telling Framework I](Assignment_1_Shin_Thant_Aung.docx)
 
 ---
 
@@ -44,7 +44,7 @@ I conducted a detailed theoretical analysis based on literature review and lectu
 - Academic Research
 
 ### Link to Project
-[Assignment 2 - Compare and Contrast Theoretical Frameworks](Assignment_2_Shin_Thant_Aung)
+[Assignment 2 - Compare and Contrast Theoretical Frameworks](Assignment_2_Shin_Thant_Aung.docx)
 
 ---
 
@@ -61,7 +61,7 @@ Using qualitative analysis methods, I evaluated the structure, content, and visu
 - Presentation Evaluation
 
 ### Link to Project
-[Assignment 3 - Al Gore Presentation Analysis](Assignment_3_Shin_Thant_Aung)
+[Assignment 3 - Al Gore Presentation Analysis](Assignment_3_Shin_Thant_Aung.docx)
 
 ---
 
@@ -77,7 +77,7 @@ I employed Tableau's interactive features to create visualizations that explored
 - Tableau
 
 ### Link to Project
-[Assignment 4 - FC Barcelona 2012-2013 Season Analysis](Assignment_4_Shin_Thant_Aung)
+[Assignment 4 - FC Barcelona 2012-2013 Season Analysis](Assignment_4_Shin_Thant_Aung.docx)
 
 ---
 
@@ -93,7 +93,7 @@ Through data visualization techniques in Tableau, I examined factors influencing
 - Tableau
 
 ### Link to Project
-[Assignment 5 - Airbnb Data Analysis](Assignment_5_Shin_Thant_Aung)
+[Assignment 5 - Airbnb Data Analysis](Assignment_5_Shin_Thant_Aung.docx)
 
 ---
 
@@ -110,8 +110,11 @@ Using a combination of Tableau for visualization and Python for data preprocessi
 - Python
 
 ### Link to Project
-[Capstone Assignment - IMDB Data+Movies Capstone Presentation](Capstone_Shin_Thant_Aung)
-[Capstone Assignment - IMDB Data+Movies Capstone Presentation Transcript](Capstone_Shin_Thant_Aung_Transcript)
+
+[Capstone Assignment - IMDB Data+Movies Capstone Presentation](Capstone_Shin_Thant_Aung.docx)
+
+
+[Capstone Assignment - IMDB Data+Movies Capstone Presentation Transcript](Capstone_Shin_Thant_Aung_Transcript.docx)
 
 ---
 
